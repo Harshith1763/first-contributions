@@ -6903,9 +6903,11 @@ Aadi Deshmukh
 - [YLS](https://github.com/harrywinchester)
 - [Madhan13K](https://github.com/Madhan13K)
 - [Rina Reimer](https://github.com/rina-reimer)
+- [harshith1763](https://github.com/Harshith1763)
 - [Brandon (Zhihao) Lu]()
 - [Joshua Ditton](https://github.com/brutalaty)
 - [Sujatro Bhadra](https://github.com/sujatrobhadra)
 - [Aritra Chakraborty](https://github.com/aritraChakraborty101)
 - [Anthony Chen] (https://github.com/Achen2089)
 - [Gustavo Canseco] (https://github.com/guss89)
+
